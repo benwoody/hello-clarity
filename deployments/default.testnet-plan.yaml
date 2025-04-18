@@ -10,7 +10,7 @@ plan:
       transactions:
         - contract-publish:
             contract-name: hello-world
-            expected-sender: ST32J765BKSKRBD904R683N7Z8N9YSY23K1978K8E
+            expected-sender: STDQ4QVGPA5EEJXGNFS7VJHKVPKH2B3525QMXR6R
             cost: 363
             path: contracts/hello-world.clar
             anchor-block-only: true
