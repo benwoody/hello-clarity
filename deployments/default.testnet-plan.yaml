@@ -9,10 +9,10 @@ plan:
     - id: 0
       transactions:
         - contract-publish:
-            contract-name: hello-world
+            contract-name: hello-clarity
             expected-sender: STH2KHFHXAHXZ9ACW3DFZWMX2CW9VXSH5SD05F0Y
             cost: 363
-            path: contracts/hello-world.clar
+            path: contracts/hello-clarity.clar
             anchor-block-only: true
             clarity-version: 3
       epoch: "3.0"
